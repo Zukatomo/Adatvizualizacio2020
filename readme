@@ -1,0 +1,12 @@
+Adatvizualizáció
+Gáll János 
+Számitástechnika III.
+
+Futtatás:
+A root mappába:
+    python -m SimpleHTTPServer 9000
+    parancs futtatása, vagy bármilyen más http szerver.
+
+URL: http://localhost:9000/
+
+Az oldal lassan tölt be, mert kliens oldalon végezi a számitásokat, akér fél perc.
